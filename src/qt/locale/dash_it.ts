@@ -870,11 +870,11 @@
     </message>
     <message>
         <source>This option is the quickest and will cost about ~0.025 DEED to anonymize 1000 DEED</source>
-        <translation>Questa opzione è la più veloce e ti costerà ~0.025DEED circa per anonimizzare 1000DEED</translation>
+        <translation>Questa opzione è la più veloce e ti costerà ~0.025DASH circa per anonimizzare 1000DASH</translation>
     </message>
     <message>
         <source>This option is moderately fast and will cost about 0.05 DEED to anonymize 1000 DEED</source>
-        <translation>Questa opzione è moderatamente veloce e costerà 0.05DEED circa per anonimizzare 1000DEED</translation>
+        <translation>Questa opzione è moderatamente veloce e costerà 0.05DASH circa per anonimizzare 1000DASH</translation>
     </message>
     <message>
         <source>0.1 DEED per 1000 DEED you anonymize.</source>

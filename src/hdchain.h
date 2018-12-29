@@ -1,7 +1,7 @@
 // Copyright (c) 2014-2017 The VillageCoin Core developers
 // Distributed under the MIT software license, see the accompanying
-#ifndef DEED_HDCHAIN_H
-#define DEED_HDCHAIN_H
+#ifndef DASH_HDCHAIN_H
+#define DASH_HDCHAIN_H
 
 #include "key.h"
 #include "sync.h"
@@ -147,4 +147,4 @@ public:
     std::string GetKeyPath() const;
 };
 
-#endif // DEED_HDCHAIN_H
+#endif // DASH_HDCHAIN_H

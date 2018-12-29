@@ -1436,7 +1436,7 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <source>Open the VillageCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna VillageCoins avsökningsloggfil från den nuvarande datakatalogen. Detta kan ta ett par sekunder för stora loggfiler.</translation>
+        <translation>Öppna Dashs avsökningsloggfil från den nuvarande datakatalogen. Detta kan ta ett par sekunder för stora loggfiler.</translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -1508,7 +1508,7 @@ https://www.transifex.com/projects/p/dash/</translation>
     </message>
     <message>
         <source>Welcome to the VillageCoin RPC console.</source>
-        <translation>Välkommen till VillageCoins RPC-konsol.</translation>
+        <translation>Välkommen till Dashs RPC-konsol.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>

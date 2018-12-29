@@ -58,8 +58,8 @@ public:
     enum Unit
     {
         DEED,
-        mDEED,
-        uDEED,
+        mDASH,
+        uDASH,
         duffs
     };
 

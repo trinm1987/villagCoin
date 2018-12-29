@@ -155,7 +155,7 @@ Detailed [change log](https://github.com/dashpay/dash/compare/v0.12.1.x...dashpa
 - [`bcf5455bf`](https://github.com/dashpay/dash/commit/bcf5455bf) Backport Bitcoin PR#8822: net: Consistent checksum handling (#1565)
 - [`df6d458b8`](https://github.com/dashpay/dash/commit/df6d458b8) Backport Bitcoin PR#9260: Mrs Peacock in The Library with The Candlestick (killed main.{h,cpp}) (#1566)
 - [`42c784dc7`](https://github.com/dashpay/dash/commit/42c784dc7) Backport Bitcoin PR#9289: net: drop boost::thread_group (#1568)
-- [`b9c67258b`](https://github.com/dashpay/dash/commit/b9c67258b) Backport Bitcoin PR#9609: net: fix remaining net assertions (#1575) + VillageCoinify
+- [`b9c67258b`](https://github.com/dashpay/dash/commit/b9c67258b) Backport Bitcoin PR#9609: net: fix remaining net assertions (#1575) + Dashify
 - [`2472999da`](https://github.com/dashpay/dash/commit/2472999da) Backport Bitcoin PR#9441: Net: Massive speedup. Net locks overhaul (#1586)
 - [`ccee103a0`](https://github.com/dashpay/dash/commit/ccee103a0) Backport "assumed valid blocks" feature from Bitcoin 0.13 (#1582)
 - [`105122181`](https://github.com/dashpay/dash/commit/105122181) Partially backport Bitcoin PR#9626: Clean up a few CConnman cs_vNodes/CNode things (#1591)
@@ -323,7 +323,7 @@ Detailed [change log](https://github.com/dashpay/dash/compare/v0.12.1.x...dashpa
 - [`adf97e12a`](https://github.com/dashpay/dash/commit/adf97e12a) fix travis ci mac build (#1483)
 - [`a28fa724c`](https://github.com/dashpay/dash/commit/a28fa724c) fix BIP34 starting blocks for mainnet/testnet (#1476)
 - [`bea548c61`](https://github.com/dashpay/dash/commit/bea548c61) adjust/fix some log and error messages (#1484)
-- [`715504357`](https://github.com/dashpay/dash/commit/715504357) VillageCoinify bitcoin unix executables (#1486)
+- [`715504357`](https://github.com/dashpay/dash/commit/715504357) Dashify bitcoin unix executables (#1486)
 - [`1d67d5212`](https://github.com/dashpay/dash/commit/1d67d5212) Don't try to create empty datadir before the real path is known (#1494)
 - [`549b659e8`](https://github.com/dashpay/dash/commit/549b659e8) Force self-recheck on CActiveMasternode::ManageStateRemote() (#1441)
 - [`96f0d6ec2`](https://github.com/dashpay/dash/commit/96f0d6ec2) various trivial cleanup fixes (#1501)

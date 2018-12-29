@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>org.dash.VillageCoinPayment</string>
+      <string>org.dash.DashPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>dash</string>

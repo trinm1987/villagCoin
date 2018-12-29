@@ -382,7 +382,7 @@ See detailed [change log](https://github.com/dashpay/dash/compare/v0.12.2.3...da
 - [`b07503f01`](https://github.com/dashpay/dash/commit/b07503f01) Some cleanup (mostly trivial) (#2038)
 - [`f8e5c5d56`](https://github.com/dashpay/dash/commit/f8e5c5d56) Simplify spork defaults by using a map (#2037)
 - [`6dd8304a5`](https://github.com/dashpay/dash/commit/6dd8304a5) Remove duplication of "class CBlockIndex;" (#2036)
-- [`4ea790377`](https://github.com/dashpay/dash/commit/4ea790377) VillageCoinify lib names (#2035)
+- [`4ea790377`](https://github.com/dashpay/dash/commit/4ea790377) Dashify lib names (#2035)
 - [`53093c65b`](https://github.com/dashpay/dash/commit/53093c65b) Run tests in mocked time (#2031)
 - [`f7b9aae27`](https://github.com/dashpay/dash/commit/f7b9aae27) Correctly update pindexBestHeader and pindexBestInvalid in InvalidateBlock (#2029)
 - [`8b09e779b`](https://github.com/dashpay/dash/commit/8b09e779b) Bump testnet checkpoint and nMinimumChainWork/defaultAssumeValid params (#2026)

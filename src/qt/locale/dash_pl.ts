@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>These are your VillageCoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To są twoje adresy do otrzymywania VillageCoinów. Zaleca się tworzyć nowy adres dla każdej transakcji.</translation>
+        <translation>To są twoje adresy do otrzymywania Dashów. Zaleca się tworzyć nowy adres dla każdej transakcji.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -1346,7 +1346,7 @@
     </message>
     <message>
         <source>Amount of VillageCoin to keep anonymized</source>
-        <translation>Ilość VillageCoinów, które mają pozostać anonimowe.</translation>
+        <translation>Ilość Dashów, które mają pozostać anonimowe.</translation>
     </message>
     <message>
         <source>W&amp;allet</source>

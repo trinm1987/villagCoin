@@ -271,7 +271,7 @@
     </message>
     <message>
         <source>Send coins to a VillageCoin address</source>
-        <translation>Verstuur VillageCoin naar een VillageCoinadres</translation>
+        <translation>Verstuur VillageCoin naar een Dashadres</translation>
     </message>
     <message>
         <source>&amp;Receive</source>
@@ -379,7 +379,7 @@
     </message>
     <message>
         <source>Sign messages with your VillageCoin addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw VillageCoinadressen om te bewijzen dat u deze adressen bezit.</translation>
+        <translation>Onderteken berichten met uw Dashadressen om te bewijzen dat u deze adressen bezit.</translation>
     </message>
     <message>
         <source>&amp;Verify message...</source>
@@ -387,7 +387,7 @@
     </message>
     <message>
         <source>Verify messages to ensure they were signed with specified VillageCoin addresses</source>
-        <translation>Verifieer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde VillageCoinadressen.</translation>
+        <translation>Verifieer handtekeningen om zeker te zijn dat de berichten zijn ondertekend met de gespecificeerde Dashadressen.</translation>
     </message>
     <message>
         <source>&amp;Information</source>
@@ -1500,7 +1500,7 @@ Meer anonimisatie rondes geeft een hoger niveau van privacy, maar kost ook meer 
     </message>
     <message>
         <source>Connect to the VillageCoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Maak verbinding met VillageCoinnetwerk door een aparte SOCKS5-proxy voor verborgen diensten van Tor.</translation>
+        <translation>Maak verbinding met Dashnetwerk door een aparte SOCKS5-proxy voor verborgen diensten van Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -2017,7 +2017,7 @@ Om te mixen moeten andere gebruikers exact dezelfde denominaties inbrengen.</tra
     </message>
     <message>
         <source>Enter a VillageCoin address (e.g. %1)</source>
-        <translation>Voer een VillageCoinadres in (bijv. %1)</translation>
+        <translation>Voer een Dashadres in (bijv. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3038,7 +3038,7 @@ Nota: Het bericht zal niet verzonden worden met de betaling over het VillageCoin
     </message>
     <message>
         <source>The VillageCoin address to send the payment to</source>
-        <translation>Het VillageCoinadres om betaling aan te versturen</translation>
+        <translation>Het Dashadres om betaling aan te versturen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3143,7 +3143,7 @@ Nota: Het bericht zal niet verzonden worden met de betaling over het VillageCoin
     </message>
     <message>
         <source>The VillageCoin address to sign the message with</source>
-        <translation>Het VillageCoinadres om bericht mee te ondertekenen</translation>
+        <translation>Het Dashadres om bericht mee te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3199,7 +3199,7 @@ Nota: Het bericht zal niet verzonden worden met de betaling over het VillageCoin
     </message>
     <message>
         <source>The VillageCoin address the message was signed with</source>
-        <translation>Het VillageCoinadres waarmee het bericht ondertekend is</translation>
+        <translation>Het Dashadres waarmee het bericht ondertekend is</translation>
     </message>
     <message>
         <source>Verify the message to ensure it was signed with the specified VillageCoin address</source>
