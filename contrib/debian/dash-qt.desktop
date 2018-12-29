@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Dash Core
-Comment=Dash P2P Cryptocurrency
-Comment[de]=Verbinde mit dem Dash peer-to-peer Netzwerk
-Comment[fr]=Dash, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Dash, eşten eşe kriptografik sanal para birimi
+Name=VillageCoin Core
+Comment=VillageCoin P2P Cryptocurrency
+Comment[de]=Verbinde mit dem VillageCoin peer-to-peer Netzwerk
+Comment[fr]=VillageCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=VillageCoin, eşten eşe kriptografik sanal para birimi
 Exec=dash-qt %u
 Terminal=false
 Type=Application

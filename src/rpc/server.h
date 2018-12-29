@@ -143,7 +143,7 @@ public:
 };
 
 /**
- * Dash RPC command dispatcher.
+ * VillageCoin RPC command dispatcher.
  */
 class CRPCTable
 {
