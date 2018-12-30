@@ -13,7 +13,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"org.dash.VillageCoin-Qt";
+        return @"org.village.VillageCoin-Qt";
     } else {
         return [self __bundleIdentifier];
     }

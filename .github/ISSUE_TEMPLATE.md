@@ -4,7 +4,7 @@ This issue tracker is only for technical issues related to VillageCoin Core.
 
 General VillageCoin questions and/or support requests and are best directed to the [VillageCoinpay Reddit](https://www.reddit.com/r/dashpay/).
 
-To report critical security issues, email infosec@dash.org instead of creating Github issues.
+To report critical security issues, email infosec@village.org instead of creating Github issues.
 
 ### Describe the issue
 

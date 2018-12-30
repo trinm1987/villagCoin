@@ -24,7 +24,7 @@ make
 make install # optional
 ```
 
-This will build dash-qt as well if the dependencies are met.
+This will build village-qt as well if the dependencies are met.
 
 Dependencies
 ---------------------
@@ -124,7 +124,7 @@ libqrencode (optional) can be installed with:
 
     sudo apt-get install libqrencode-dev
 
-Once these are installed, they will be found by configure and a dash-qt executable will be
+Once these are installed, they will be found by configure and a village-qt executable will be
 built by default.
 
 Dependency Build Instructions: Fedora
@@ -170,7 +170,7 @@ It is recommended to use Berkeley DB 4.8. If you have to build it yourself:
 ```bash
 DASH_ROOT=$(pwd)
 
-# Pick some path to install BDB to, here we create a directory within the dash directory
+# Pick some path to install BDB to, here we create a directory within the village directory
 BDB_PREFIX="${DASH_ROOT}/db4"
 mkdir -p $BDB_PREFIX
 
@@ -276,8 +276,8 @@ Setup and Build Example: Arch Linux
 This example lists the steps necessary to setup and build a command line only, non-wallet distribution of the latest changes on Arch Linux:
 
     pacman -S git base-devel boost libevent python
-    git clone https://github.com/dashpay/dash.git
-    cd dash/
+    git clone https://github.com/dashpay/village.git
+    cd village/
     ./autogen.sh
     ./configure --disable-wallet --without-gui --without-miniupnpc
     make check

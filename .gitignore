@@ -6,10 +6,10 @@ reset-files.bash
 *.tar.gz
 
 *.exe
-src/dash
+src/village
 src/dashd
-src/dash-cli
-src/dash-tx
+src/village-cli
+src/village-tx
 src/test/test_dash
 src/qt/test/test_dash-qt
 src/bench/bench_dash
@@ -35,8 +35,8 @@ config.log
 config.status
 configure
 libtool
-src/config/dash-config.h
-src/config/dash-config.h.in
+src/config/village-config.h
+src/config/village-config.h.in
 src/config/stamp-h1
 share/setup.nsi
 share/qt/Info.plist
@@ -80,12 +80,12 @@ libconftest.dylib*
 # Compilation and Qt preprocessor part
 *.qm
 Makefile
-dash-qt
+village-qt
 VillageCoin-Qt.app
 
 # Unit-tests
 Makefile.test
-dash-qt_test
+village-qt_test
 src/test/buildenv.py
 
 # Resources cpp
@@ -119,13 +119,13 @@ qa/cache/*
 
 libdashconsensus.pc
 contrib/devtools/split-debug.sh
-src/qt/dash-qt.bash
+src/qt/village-qt.bash
 qa/pull-tester/tests-config.sh
 
 #development symlinks
-dash-cli
+village-cli
 dashd
-dash-qt
+village-qt
 make
 
 /docker/bin

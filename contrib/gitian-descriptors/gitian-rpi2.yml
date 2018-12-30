@@ -1,5 +1,5 @@
 ---
-name: "dash-raspberry-0.12"
+name: "village-raspberry-0.12"
 enable_cache: true
 suites:
 - "precise"
@@ -17,8 +17,8 @@ packages:
 - "binutils-gold"
 reference_datetime: "2017-01-01 00:00:00"
 remotes:
-- "url": "https://github.com/dashpay/dash.git"
-  "dir": "dash"
+- "url": "https://github.com/dashpay/village.git"
+  "dir": "village"
 files:
 - "raspberrypi-tools.tar.gz"
 script: |
@@ -67,7 +67,7 @@ script: |
   done
   export PATH=${WRAP_DIR}:${PATH}
 
-  cd dash
+  cd village
   BASEPREFIX=`pwd`/depends
   # Build dependencies for each host
   for i in $HOSTS; do

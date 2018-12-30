@@ -50,7 +50,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "VillageCoin"
-#define QAPP_ORG_DOMAIN "dash.org"
+#define QAPP_ORG_DOMAIN "village.org"
 #define QAPP_APP_NAME_DEFAULT "VillageCoin-Qt"
 #define QAPP_APP_NAME_TESTNET "VillageCoin-Qt-testnet"
 #define QAPP_APP_NAME_DEVNET "VillageCoin-Qt-%s"

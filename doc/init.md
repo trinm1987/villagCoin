@@ -44,7 +44,7 @@ This allows for running dashd without having to do any manual configuration.
 relative to the data directory. `wallet` *only* supports relative paths.
 
 For an example configuration file that describes the configuration settings,
-see `contrib/debian/examples/dash.conf`.
+see `contrib/debian/examples/village.conf`.
 
 3. Paths
 ---------------------------------
@@ -54,7 +54,7 @@ see `contrib/debian/examples/dash.conf`.
 All three configurations assume several paths that might need to be adjusted.
 
 Binary:              `/usr/bin/dashd`  
-Configuration file:  `/etc/dashcore/dash.conf`  
+Configuration file:  `/etc/dashcore/village.conf`  
 Data directory:      `/var/lib/dashd`  
 PID file:            `/var/run/dashd/dashd.pid` (OpenRC and Upstart) or `/var/lib/dashd/dashd.pid` (systemd)  
 Lock file:           `/var/lock/subsys/dashd` (CentOS)  
@@ -62,13 +62,13 @@ Lock file:           `/var/lock/subsys/dashd` (CentOS)
 The configuration file, PID directory (if applicable) and data directory
 should all be owned by the dashcore user and group.  It is advised for security
 reasons to make the configuration file and data directory only readable by the
-dashcore user and group.  Access to dash-cli and other dashd rpc clients
+dashcore user and group.  Access to village-cli and other dashd rpc clients
 can then be controlled by group membership.
 
 3b) Mac OS X
 
 Binary:              `/usr/local/bin/dashd`  
-Configuration file:  `~/Library/Application Support/DashCore/dash.conf`  
+Configuration file:  `~/Library/Application Support/DashCore/village.conf`  
 Data directory:      `~/Library/Application Support/DashCore`
 Lock file:           `~/Library/Application Support/DashCore/.lock`
 
@@ -109,13 +109,13 @@ setting the DASHD and FLAGS environment variables in the file
 
 4e) Mac OS X
 
-Copy org.dash.dashd.plist into ~/Library/LaunchAgents. Load the launch agent by
-running `launchctl load ~/Library/LaunchAgents/org.dash.dashd.plist`.
+Copy org.village.dashd.plist into ~/Library/LaunchAgents. Load the launch agent by
+running `launchctl load ~/Library/LaunchAgents/org.village.dashd.plist`.
 
 This Launch Agent will cause dashd to start whenever the user logs in.
 
 NOTE: This approach is intended for those wanting to run dashd as the current user.
-You will need to modify org.dash.dashd.plist if you intend to use it as a
+You will need to modify org.village.dashd.plist if you intend to use it as a
 Launch Daemon with a dedicated dashcore user.
 
 5. Auto-respawn

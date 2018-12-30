@@ -278,7 +278,7 @@
         <translation>&amp;Ontvangen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and dash: URIs)</source>
+        <source>Request payments (generates QR codes and village: URIs)</source>
         <translation>Vraag betaling aan (genereert QR-codes en VillageCoin: URI's)</translation>
     </message>
     <message>
@@ -474,8 +474,8 @@
         <translation>Open &amp;URI</translation>
     </message>
     <message>
-        <source>Open a dash: URI or payment request</source>
-        <translation>Open een dash: URI of betalingsaanvraag</translation>
+        <source>Open a village: URI or payment request</source>
+        <translation>Open een village: URI of betalingsaanvraag</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
@@ -1544,9 +1544,9 @@ Meer anonimisatie rondes geeft een hoger niveau van privacy, maar kost ook meer 
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/projects/p/dash/</source>
+https://www.transifex.com/projects/p/village/</source>
         <translation>Is een een taal te kort of een vertaling onvolledig ? Help de vertaling hier: 
-https://www.transifex.com/projects/p/dash/</translation>
+https://www.transifex.com/projects/p/village/</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
@@ -1894,7 +1894,7 @@ Om te mixen moeten andere gebruikers exact dezelfde denominaties inbrengen.</tra
         <translation>Fout bij betalingsverzoek</translation>
     </message>
     <message>
-        <source>Cannot start dash: click-to-pay handler</source>
+        <source>Cannot start village: click-to-pay handler</source>
         <translation>Kan VillageCoin niet starten: click-to-pay handler</translation>
     </message>
     <message>
@@ -2818,7 +2818,7 @@ Nota: Het bericht zal niet verzonden worden met de betaling over het VillageCoin
         <translation>Als de aangepaste toeslag is ingesteld op 1000 duffs en de transactie is maar 250 bytes, dan wordt bij "per kilobyte" 250 duffs aan toeslag berekend, &lt;br /&gt;terwijl er bij "totaal tenminste" 1000 duffs worden berekend. Voor transacties die groter zijn dan een kilobyte, wordt in beide gevallen per kilobyte de toeslag berekend.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for dash transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for village transactions than the network can process.</source>
         <translation>Het betalen van de minimale vergoeding is prima zo lang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar houd er rekening mee dat dit kan eindigen in een nooit bevestigde transactie zodra er meer vraag is voor VillageCoin transacties fdan het netwerk kan verwerken.</translation>
     </message>
     <message>
@@ -3085,8 +3085,8 @@ Nota: Het bericht zal niet verzonden worden met de betaling over het VillageCoin
         <translation>Bericht:</translation>
     </message>
     <message>
-        <source>A message that was attached to the dash: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the VillageCoin network.</source>
-        <translation>Een boodschap die was bijgevoegd aan de dash: URI die met de transactie voor uw referentie wordt opgeslagen. Opmerking: Dit bericht zal niet over het VillageCoin netwerk worden verzonden.</translation>
+        <source>A message that was attached to the village: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the VillageCoin network.</source>
+        <translation>Een boodschap die was bijgevoegd aan de village: URI die met de transactie voor uw referentie wordt opgeslagen. Opmerking: Dit bericht zal niet over het VillageCoin netwerk worden verzonden.</translation>
     </message>
     <message>
         <source>This is an unauthenticated payment request.</source>
@@ -3869,7 +3869,7 @@ Nota: Het bericht zal niet verzonden worden met de betaling over het VillageCoin
     </message>
 </context>
 <context>
-    <name>dash-core</name>
+    <name>village-core</name>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
         <translation>Bind aan opgegeven adres en luister er altijd op. Gebruik [host]:port notatie voor IPv6</translation>

@@ -1,7 +1,7 @@
 VillageCoin Core 0.12.1
 =====================
 
-This is the official reference wallet for VillageCoin digital currency and comprises the backbone of the VillageCoin peer-to-peer network. You can [download VillageCoin Core](https://www.dash.org/downloads/) or [build it yourself](#building) using the guides below.
+This is the official reference wallet for VillageCoin digital currency and comprises the backbone of the VillageCoin peer-to-peer network. You can [download VillageCoin Core](https://www.village.org/downloads/) or [build it yourself](#building) using the guides below.
 
 Running
 ---------------------
@@ -11,12 +11,12 @@ The following are some helpful notes on how to run VillageCoin on your native pl
 
 Unpack the files into a directory and run:
 
-- `bin/dash-qt` (GUI) or
+- `bin/village-qt` (GUI) or
 - `bin/dashd` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run dash-qt.exe.
+Unpack the files into a directory, and then run village-qt.exe.
 
 ### OS X
 
@@ -27,7 +27,7 @@ Drag VillageCoin-Qt to your applications folder, and then run VillageCoin-Qt.
 * See the [VillageCoin documentation](https://dashpay.atlassian.net/wiki/display/DOC)
 for help and more information.
 * Ask for help on [VillageCoin Nation Discord](http://dashchat.org)
-* Ask for help on the [VillageCoin Forum](https://dash.org/forum)
+* Ask for help on the [VillageCoin Forum](https://village.org/forum)
 
 Building
 ---------------------
@@ -57,7 +57,7 @@ The VillageCoin Core repo's [root README](/README.md) contains relevant informat
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [VillageCoin Forum](https://dash.org/forum), in the Development & Technical Discussion board.
+* Discuss on the [VillageCoin Forum](https://village.org/forum), in the Development & Technical Discussion board.
 * Discuss on [VillageCoin Nation Discord](http://dashchat.org)
 
 ### Miscellaneous
